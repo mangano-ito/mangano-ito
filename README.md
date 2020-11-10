@@ -1,5 +1,9 @@
 ### mangano-ito
 
+![](https://img.shields.io/badge/likes-TypeScript-55aaff.svg?style=flat)
+![](https://img.shields.io/badge/learns-Rust-ff7755.svg?style=flat)
+![](https://img.shields.io/badge/uses-Perl-ffaa55.svg?style=flat)
+
 A Web Developer.
 
 #### :rocket: Me, elsewhere
