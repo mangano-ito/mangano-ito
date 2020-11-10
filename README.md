@@ -1,4 +1,10 @@
-### Hi there 👋
+### mangano-ito
+
+A Web Developer.
+
+#### :rocket: Me, elsewhere
+
+- Twitter: https://twitter.com/mangano_ito/
 
 <!--
 **mangano-ito/mangano-ito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
