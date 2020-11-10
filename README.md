@@ -8,8 +8,7 @@ A Web Developer.
 
 #### :rocket: Me, elsewhere
 
-- Twitter: https://twitter.com/mangano_ito/
-- Blog: https://mangano-ito.hatenablog.com/
+[🐤 Twitter](https://twitter.com/mangano_ito/) / [✏️ Blog](https://mangano-ito.hatenablog.com/)
 
 <!--
 **mangano-ito/mangano-ito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
