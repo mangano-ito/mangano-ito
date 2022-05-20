@@ -2,6 +2,7 @@
 
 ![](https://img.shields.io/badge/likes-TypeScript-55aaff.svg?style=flat)
 ![](https://img.shields.io/badge/learns-Rust-ff7755.svg?style=flat)
+![](https://img.shields.io/badge/writes-Kotlin%20for%20Android-green)
 ![](https://img.shields.io/badge/uses-Perl-ffaa55.svg?style=flat)
 
 A Web Developer.
